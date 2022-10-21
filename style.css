@@ -1,0 +1,88 @@
+body {
+    background-color: lightcoral;
+}
+
+#tiradentes {
+    width: 100%;
+    display: inline-block;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center; 
+}
+
+.items {
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+h3 {
+    text-align: center;
+    font-size:xx-large;
+    
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 150px;
+
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
+
+#tiradentes2 {
+    width: 100%;
+    display: inline-block;
+}
+
+
+h4 {
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+h5 {
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    
+    
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    
+}

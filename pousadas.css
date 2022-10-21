@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+h1{
+    background-color:black;
+    color: aqua;
+    text-align: center;
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+p {
+    background-color:chocolate;
+    color: brown;
+    font-size: larger;
+    text-align: center;
+    vertical-align: top;
+    margin: 20 auto;
+    font-weight: bold;
+    border-color:maroon;
+    border: width 5px;          
+    border-style: solid;
+    border-radius: 10px;
+}
